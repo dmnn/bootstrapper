@@ -88,7 +88,7 @@ System.config({
       "aurelia-route-recognizer": "github:aurelia/route-recognizer@0.6.2",
       "core-js": "npm:core-js@0.9.18"
     },
-    "github:aurelia/templating-binding@0.14.0": {
+    "github:dmnn/templating-binding@0.14.0": {
       "aurelia-binding": "github:aurelia/binding@0.8.6",
       "aurelia-logging": "github:aurelia/logging@0.6.4",
       "aurelia-templating": "github:aurelia/templating@0.14.1"
