@@ -24,7 +24,7 @@ System.config({
     "aurelia-logging-console": "github:aurelia/logging-console@0.6.2",
     "aurelia-router": "github:aurelia/router@0.11.0",
     "aurelia-templating": "github:aurelia/templating@0.14.1",
-    "aurelia-templating-binding": "github:aurelia/templating-binding@0.14.0",
+    "aurelia-templating-binding": "github:dmnn/templating-binding@0.14.0",
     "aurelia-templating-resources": "github:aurelia/templating-resources@0.14.0",
     "aurelia-templating-router": "github:aurelia/templating-router@0.15.0",
     "babel": "npm:babel-core@5.2.2",

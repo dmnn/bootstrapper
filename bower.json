@@ -25,7 +25,7 @@
     "aurelia-logging-console": "^0.6.2",
     "aurelia-router": "^0.11.0",
     "aurelia-templating": "^0.14.1",
-    "aurelia-templating-binding": "^0.14.0",
+    "aurelia-templating-binding": "dmnn/templating-binding",
     "aurelia-templating-resources": "^0.14.0",
     "aurelia-templating-router": "^0.15.0",
     "core-js": "zloirock/core-js"
